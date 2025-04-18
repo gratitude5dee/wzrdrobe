@@ -6,8 +6,8 @@ export function Logo() {
           <img
             src="/morflax-studio-31--unscreen.gif"
             alt="WZRD Animation"
-            width={200}
-            height={120}
+            width={400}
+            height={240}
             className="object-contain"
           />
         </div>
