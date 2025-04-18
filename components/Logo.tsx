@@ -4,8 +4,8 @@ export function Logo() {
       <div className="relative w-128 h-64 animate-float">
         <div className="flex justify-center mb-4">
           <img
-            src="/ascii-video-ezgif.com-optimize.gif"
-            alt="WZRDROBE ASCII Animation"
+            src="/morflax-studio-31--unscreen.gif"
+            alt="WZRD Animation"
             width={200}
             height={120}
             className="object-contain"
